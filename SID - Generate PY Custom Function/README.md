@@ -54,7 +54,7 @@ When you have prepared the custom context file and adjusted the generated code a
 
 ---
 
-## Requirements <a name="requirements-"></a>
+## Requirements ##
 * SAS Viya 2025.01 or later.
 * Python needs to be installed and configured to work with SAS Studio.
 * The SAS Viya environment needs to be set up to allow calling SAS Viya services from within SAS Studio. If you cannot call SAS Viya services you will receive a time out error. In this case check with your SAS Viya administrator.
