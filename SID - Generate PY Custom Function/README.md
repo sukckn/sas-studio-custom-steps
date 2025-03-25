@@ -62,12 +62,22 @@ When you have prepared the custom context file and adjusted the generated code a
 ---
 
 ## Usage ##
-Create a custom function in Intelligent Decisioning and use it in a decision flow.
+Point to a Python script and create a custom function in Intelligent Decisioning.
 ![](img/GeneratePYCustomFunction_I.gif)
+
+---
+
+Create a custom context file for the custom function and call the custom function from a rule set in Intelligent Decisioning.
 ![](img/GeneratePYCustomFunction_II.gif)
+
+---
+
+Create a decision flow that is using the rule set calling the custom function, set the custom context file on the decision flow, and run a scenario test on the decision flow.
 ![](img/GeneratePYCustomFunction_III.gif)
 
+---
+
 ## Change Log ##
-Version 1.0 (21MAR2025)<br>
+Version 1.0 (25MAR2025)<br>
    * Initial version 
 
